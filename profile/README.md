@@ -19,7 +19,7 @@ Vaselabs is not just a blockchain project; it's a comprehensive ecosystem where 
 
 - Broader Accessibility: By operating on multiple blockchains, we ensure that our solutions are accessible to a wider audience.
 - Enhanced Flexibility: Our multichain approach allows for adaptable and scalable solutions that meet diverse needs.
-- Innovative Solutions: Combining DeFi, AI, and NFTs to tackle industry challenges and unlock new possibilities.
+- Innovative Solutions that tackles industry challenges and unlocks new possibilities.
  
 <!--
 
